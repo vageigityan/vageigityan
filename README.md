@@ -52,4 +52,4 @@
 
 </td></tr></table>  
 
-<img src="./assets/strongdeveloper.png" />
+<img width="30%" src="./assets/strongdeveloper.png" />
