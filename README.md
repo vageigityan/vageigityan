@@ -70,3 +70,5 @@
 </div>
 
 <br/>
+
+<img src="./assets/strongdeveloper.png" />
