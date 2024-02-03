@@ -52,4 +52,10 @@
 
 </td></tr></table>  
 
-<img width="30%" src="./assets/strongdeveloper.png" />
+<div style="display: flex; flex-direction: row">
+  <div>
+    - 🔭 I’m currently working onbfb **nfjnf**
+  </div>
+  <img width="30%" src="./assets/strongdeveloper.png" />
+</div>
+
